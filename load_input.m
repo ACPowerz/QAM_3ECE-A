@@ -5,8 +5,6 @@ function [x1_pad, x2_pad, Fs_orig] = load_input(input1, input2)
 
 Fs = 44100;
 n = 0:Fs-1;
-% HELLO MMARGOT
-n1 = 000;
 
 %%
 Fs = 44100;
